@@ -1,3 +1,3 @@
 # DataPipelines
 
-Collection of basic sequencing proceessing pipelines for use on the Einstein Cluster. 
+Collection of basic sequencing proceessing pipelines for use on the Einstein slurm based Cluster. 
